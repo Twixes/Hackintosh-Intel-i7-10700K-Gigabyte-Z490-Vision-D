@@ -1,6 +1,6 @@
 # Hackintosh-Intel-i7-10700K-Gigabyte-Z490-Vision-D
 
-Fork of [SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D).
+Fork of [SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D). Instructions over there.
 
 Adjusted for ASUS PCE-AC56 + ASUS USB-BT400 networking instead of Fenvi T919. Nothing but EFI directory. Only iMac20,2.
 
