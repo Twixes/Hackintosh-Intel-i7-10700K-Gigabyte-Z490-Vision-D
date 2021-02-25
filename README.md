@@ -8,7 +8,7 @@ Adjusted for ASUS PCE-AC56 + ASUS USB-BT400 networking instead of Fenvi T919. No
 
 | Part | Model |
 | --- | --- |
-| CPU | Intel i7-10700K |
+| CPU | Intel Core i7-10700K |
 | Motherboard | Gigabyte Z490 Vision D |
 | RAM | Crucial Ballistix 32 (2x16) GB 3600 MHz CL16 |
 | GPU | Sapphire Radeon RX 5700 XT Nitro+ |
