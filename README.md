@@ -16,5 +16,5 @@ Adjusted for ASUS PCE-AC56 + ASUS USB-BT400 networking instead of Fenvi T919. No
 | Windows SSD 1 | WD Black SN750 1 TB |
 | Windows SSD 2 | Samsung 960 EVO 2 TB |
 | WiFi | ASUS PCE-AC56 | 
-| BT | ASUS USB-BT400 |
+| Bluetooth | ASUS USB-BT400 |
 | PSU | be quiet! Straight Power 11 750W |
