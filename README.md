@@ -4,6 +4,8 @@ Fork of [SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D](https://
 
 Adjusted for ASUS PCE-AC56 + ASUS USB-BT400 networking instead of Fenvi T919. Nothing but EFI directory. Only iMac20,2.
 
+Currently running Big Sur 11.1.
+
 # Hardware
 
 | Part | Model |
